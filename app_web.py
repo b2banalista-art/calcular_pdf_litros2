@@ -3,7 +3,7 @@ from leitor_pdf import extrair_dados
 from regra_negocio import calcular_litros
 import tempfile
 
-st.title("📄 Calculadora de Litros via PDF")
+st.title("📄 CALCULADORA DE PEDIDO | ANALISTA SAVIO")
 
 arquivo = st.file_uploader("Selecione o PDF", type=["pdf"])
 
